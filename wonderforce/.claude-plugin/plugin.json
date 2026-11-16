@@ -1,0 +1,18 @@
+{
+  "name": "wonderforce",
+  "version": "0.1.0",
+  "description": "Your company's WonderForce brain in Claude Code: people, customers, deals, vendors and decisions, scoped to what you can see.",
+  "author": {
+    "name": "WonderForce"
+  },
+  "homepage": "https://www.wonderforce.ai",
+  "userConfig": {
+    "mcp_url": {
+      "type": "string",
+      "title": "WonderForce MCP URL",
+      "description": "Copy it from Connections \u2192 For agents & tools. It ends in /mcp/<your workspace>.",
+      "required": true
+    }
+  },
+  "license": "MIT"
+}

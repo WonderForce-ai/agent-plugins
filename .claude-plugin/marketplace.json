@@ -1,0 +1,14 @@
+{
+  "name": "wonderforce",
+  "owner": {
+    "name": "WonderForce"
+  },
+  "description": "WonderForce's plugins for coding agents.",
+  "plugins": [
+    {
+      "name": "wonderforce",
+      "source": "./wonderforce",
+      "description": "Your company's WonderForce brain in Claude Code: people, customers, deals, vendors and decisions, scoped to what you can see."
+    }
+  ]
+}
